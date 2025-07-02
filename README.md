@@ -1,0 +1,1 @@
+# exemple-declaration-variables-Arduino
