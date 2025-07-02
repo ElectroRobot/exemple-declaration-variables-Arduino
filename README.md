@@ -1,4 +1,4 @@
-#Exemple de déclaration de variables sous Arduino
+# Exemple de déclaration de variables sous Arduino
 
 Ce repository enregistre le code source de l'exemple proposé de déclaration d'une variable sous Arduino IDE en C++ pour vous familiariser avec les variables dans la programmation. Pour vous initier à la programmation et aux variables en codage, vous pouvez vous faire référence à : [https://electro-robot.com/programmation/les-variables](https://electro-robot.com/programmation/les-variables)
 
